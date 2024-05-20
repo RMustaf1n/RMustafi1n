@@ -3,4 +3,4 @@
 <h3 align="center">And I want to remember everything</h3>
 
 ### :hammer_and_wrench: Languages and Tools :
-<h3><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" size="10"><h3>
+<h3><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="32"><h3>
